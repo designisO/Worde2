@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this project I was able to create a simple text edito called Worde2. The text editor was created using PyQT5 library which is more than a GUI toolkit. The design of the GUI has a Windows 98 theme for the retro feel and look. Options of "Open", "Save", "Save As", "Close" and "About" features are in working function as well. 
+In this project I was able to create a simple text edito called Worde2. The text editor was created using PyQT5 library which is more than a GUI toolkit. The design of the GUI has a Windows 98 theme for the retro feel and look. Options of "Open", "Save", "Save As", "Close" and "About" features are in working condition. 
 
 ### Dependencies
 
